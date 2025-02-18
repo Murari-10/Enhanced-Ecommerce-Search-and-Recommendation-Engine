@@ -1,6 +1,7 @@
 # Enhanced Ecommerce Search and Recommendation Engine
 # Links
 [Dataset](https://drive.google.com/file/d/1neFzo59lvad0KlfvZwAjE9ybaxSIj1vM/view?usp=sharing)
+
 [Google News Vectors](https://docs.google.com/open?id=0B7XkCwpI5KDYNlNUTTlSS21pQmM)
 
 
